@@ -1,5 +1,15 @@
 # @sanity/workbench-cli
 
+## 2.19.1
+
+[Compare changes](https://github.com/sanity-io/cli/compare/workbench-cli-v2.19.0...workbench-cli-v2.19.1)
+
+_2026-11-21_
+
+### Bug Fixes
+
+- **auto-updates:** round the module URL timestamp to 60 seconds ([#2136](https://github.com/sanity-io/cli/pull/2136)) ([d271d6a](https://github.com/sanity-io/cli/commit/d271d6aaa06dd89592ceb1590877b73f00190030))
+
 ## 2.19.0
 
 [Compare changes](https://github.com/sanity-io/cli/compare/workbench-cli-v2.18.0...workbench-cli-v2.19.0)
